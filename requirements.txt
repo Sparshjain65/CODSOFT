@@ -1,0 +1,12 @@
+# Competitor Analyzer — Python dependencies
+# All stdlib-only for the core analyzer; install extras for enhanced NLP
+
+# Optional: uncomment for richer NLP (spaCy, transformers)
+# spacy>=3.7.0
+# scikit-learn>=1.4.0
+# numpy>=1.26.0
+
+# Optional: enhanced scraping
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0
+# lxml>=5.1.0
